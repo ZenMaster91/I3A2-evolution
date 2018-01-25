@@ -38,6 +38,6 @@ new implementation.
 
 ## Alternatives considered
 
-Also [participants-i3b](https://github.com/Arquisoft/participants_i2a) was
+Also [participants-i3b](https://github.com/Arquisoft/participants_i3b) was
 considered and it is a good alternative. But due to its complication and the
 resources used was dismissed.
